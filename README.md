@@ -1,0 +1,2 @@
+# Business Outreach Project
+ Project consisting of a webscraper finding business data online, like industry, location and contact information, a tool to verify collected emails, database integration, and automated email outreach service to companies in database. The goal of this project is to increase the number of leads for search funds and sales departments.
